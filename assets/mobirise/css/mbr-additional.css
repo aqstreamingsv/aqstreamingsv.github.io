@@ -1720,6 +1720,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7F6YBLKgN .col-right {
   color: #ff0000;
+  text-align: center;
 }
 .cid-s7F6YBLKgN .card-title {
   color: #ff0000;
@@ -2870,9 +2871,14 @@ section.lazy-placeholder:after {
 }
 .cid-s7F9ArTRkb .card-title {
   color: #00c70c;
+  text-align: left;
 }
 .cid-s7F9ArTRkb .col-right {
   color: #00c70c;
+  text-align: center;
+}
+.cid-s7F9ArTRkb P {
+  text-align: left;
 }
 .cid-s7F9AukYcB {
   padding-top: 30px;
