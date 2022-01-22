@@ -47,9 +47,7 @@
     "uniqCompNum": 58,
     "versionPublish": "5.0.29",
     "imageResize": true,
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Henry%20Andrade%20SA/Downloads/stop"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
